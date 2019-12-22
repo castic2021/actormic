@@ -14,7 +14,7 @@
 
 
 # 系统框图
-   zyh
+   ![](https://github.com/castic2020/actormic/blob/master/%E6%BC%94%E5%A5%8F%E8%80%85%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E9%BA%A6%E5%85%8B%E9%A3%8E.jpg)
 
 
 # 软件设计
