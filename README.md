@@ -18,7 +18,7 @@
 
 
 # 软件设计
-   zjf
+   ![](https://github.com/castic2020/actormic/blob/master/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%20(1).drawio)
 
 
 # 电路设计
