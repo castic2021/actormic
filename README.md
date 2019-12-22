@@ -10,7 +10,8 @@
 
 
 # 装置草图
-  陶老师
+  ![]
+(https://github.com/castic2020/actormic/blob/master/微信图片_20191222165610.png  )
 
 
 # 系统框图
@@ -34,4 +35,4 @@
 
 
 # 结论及展望
-   zjf
+   zjf1
