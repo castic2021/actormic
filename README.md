@@ -10,7 +10,7 @@
 
 
 # 装置草图
-  ![]
+  !［］
 (https://github.com/castic2020/actormic/blob/master/微信图片_20191222165610.png  )
 
 
